@@ -8,3 +8,4 @@ User manual
    webphone.rst
    calls.rst
    fax.rst
+   grandstream.rst
